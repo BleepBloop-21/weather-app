@@ -15,7 +15,7 @@ const Forecast = ({ data }) => {
             <br />
             <br />
             <br />
-            <label className="title">Forecast for next 7 days: </label>
+            <label className="title">Forecast for next 7 days. Click on a particular day for more information. </label>
             <br />
             <br />
             <Accordion allowZeroExpanded>
